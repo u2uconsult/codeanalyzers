@@ -5,6 +5,8 @@ Documentation is under construction.
 
 Download the [U2U Consult Performance Code Analyzers for C# 7](https://marketplace.visualstudio.com/items?itemName=vs-publisher-363830.U2UConsultPerformanceCodeAnalyzersforC7)
 
+| Code    | Description |
+| ------- | ----------- |
 | U2U1000 | Local variable can be inlined or declared const |
 | U2U1001 | Stateless classes can be static |
 | U2U1002 | Method can be declared static |
