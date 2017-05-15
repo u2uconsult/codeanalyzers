@@ -24,7 +24,6 @@ Download the [U2U Consult Performance Code Analyzers for C# 7](https://marketpla
 | [U2U1014](docs/U2U1014.md) | Parameter types should not cause boxing |
 | [U2U1100](docs/U2U1100.md) | Compare strings correctly |
 | [U2U1101](docs/U2U1101.md) | Do not concatenate values to strings directly |
-| [U2U1102](docs/U2U1102.md) | Do not concatenate char constants |
 | [U2U1103](docs/U2U1103.md) | Index strings correctly |
 | [U2U1104](docs/U2U1104.md) | Do not use composite formatting to concatenate strings |
 | [U2U1105](docs/U2U1105.md) | Do not use string interpolation to concatenate strings |
