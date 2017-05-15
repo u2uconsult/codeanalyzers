@@ -22,6 +22,7 @@ Download the [U2U Consult Performance Code Analyzers for C# 7](https://marketpla
 | [U2U1012](docs/U2U1012.md) | Parameter types should be specific |
 | [U2U1013](docs/U2U1013.md) | Return types should not cause boxing |
 | [U2U1014](docs/U2U1014.md) | Parameter types should not cause boxing |
+| [U2U1015](docs/U2U1015/md) | Do not index an array multiple times within a loop body |
 | [U2U1100](docs/U2U1100.md) | Compare strings correctly |
 | [U2U1101](docs/U2U1101.md) | Do not concatenate values to strings directly |
 | [U2U1103](docs/U2U1103.md) | Index strings correctly |
