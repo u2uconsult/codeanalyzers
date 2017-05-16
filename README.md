@@ -44,3 +44,5 @@ Download the [U2U Consult Performance Code Analyzers for C# 7](https://marketpla
 | [U2U1208](docs/U2U1208.md) | Do not call LINQ methods whose effect is undone by subsequent methods |
 | [U2U3000](docs/U2U3000.md) | Provide enough arguments to composite formatting |
 | [U2U3001](docs/U2U3001.md) | Use the correct format syntax with composite formatting |
+
+© 2017 U2U Consult
