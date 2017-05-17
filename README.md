@@ -23,7 +23,7 @@ Documentation is under construction. You can contribute by raising an issue, or 
 | [U2U1012](docs/U2U1012.md) | Parameter types should be specific |
 | [U2U1013](docs/U2U1013.md) | Return types should not cause boxing |
 | [U2U1014](docs/U2U1014.md) | Parameter types should not cause boxing |
-| [U2U1015](docs/U2U1015/md) | Do not index an array multiple times within a loop body |
+| [U2U1015](docs/U2U1015.md) | Do not index an array multiple times within a loop body |
 | [U2U1100](docs/U2U1100.md) | Compare strings correctly |
 | [U2U1101](docs/U2U1101.md) | Do not concatenate values to strings directly |
 | [U2U1103](docs/U2U1103.md) | Index strings correctly |
@@ -46,4 +46,4 @@ Documentation is under construction. You can contribute by raising an issue, or 
 | [U2U3000](docs/U2U3000.md) | Provide enough arguments to composite formatting |
 | [U2U3001](docs/U2U3001.md) | Use the correct format syntax with composite formatting |
 
-© 2017 U2U Consult
+Â© 2017 U2U Consult
