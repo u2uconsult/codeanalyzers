@@ -43,6 +43,7 @@ Documentation is under construction. You can contribute by raising an issue, or 
 | [U2U1206](docs/U2U1206.md) | Do not use a LINQ where clause before filtering the query |
 | [U2U1207](docs/U2U1207.md) | Do not aggregate the result of a LINQ select operation |
 | [U2U1208](docs/U2U1208.md) | Do not call LINQ methods whose effect is undone by subsequent methods |
+| [U2U1209](docs/U2U1209.md) | Use dictionaries eficiently |
 | [U2U3000](docs/U2U3000.md) | Provide enough arguments to composite formatting |
 | [U2U3001](docs/U2U3001.md) | Use the correct format syntax with composite formatting |
 
