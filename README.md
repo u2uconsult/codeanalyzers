@@ -24,6 +24,8 @@ Documentation is under construction. You can contribute by raising an issue, or 
 | [U2U1013](docs/U2U1013.md) | Return types should not cause boxing |
 | [U2U1014](docs/U2U1014.md) | Parameter types should not cause boxing |
 | [U2U1015](docs/U2U1015.md) | Do not index an array multiple times within a loop body |
+| [U2U1016](docs/U2U1016.md) | Use a CancellationToken when possible |
+| [U2U1017](docs/U2U1017.md) | Initialized locals should be used |
 | [U2U1100](docs/U2U1100.md) | Compare strings correctly |
 | [U2U1101](docs/U2U1101.md) | Do not concatenate values to strings directly |
 | [U2U1103](docs/U2U1103.md) | Index strings correctly |
