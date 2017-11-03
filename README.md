@@ -36,6 +36,7 @@ Documentation is under construction. You can contribute by raising an issue, or 
 | [U2U1108](docs/U2U1108.md) | StringBuilders should be initialized with capacity |
 | [U2U1109](docs/U2U1109.md) | Do not test strings for null when appending to a StringBuilder |
 | [U2U1110](docs/U2U1110.md) | Do not append null or empty strings to a StringBuilder |
+| [U2U1111](docs/U2U1111.md) | Do not append a substring to a StringBuilder |
 | [U2U1200](docs/U2U1200.md) | Prefer generic collections over non-generic ones |
 | [U2U1201](docs/U2U1201.md) | Local collections should be initialized with capacity |
 | [U2U1202](docs/U2U1202.md) | Use LINQ Count methods efficiently |
