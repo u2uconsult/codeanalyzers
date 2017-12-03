@@ -1,6 +1,6 @@
 # U2U Consult Performance Analyzers for C# 7
 
-This repository will host the documentation for the U2U Consult diagnostic code analyzers.
+This repository hosts the documentation for the U2U Consult diagnostic code analyzers.
 
 Download the [U2U Consult Performance Analyzers for C# 7](https://marketplace.visualstudio.com/items?itemName=vs-publisher-363830.U2UConsultPerformanceCodeAnalyzersforC7)
 
