@@ -48,12 +48,13 @@ Documentation is under construction. You can contribute by raising an issue, or 
 | [U2U1201](docs/U2U1201.md) | Local collections should be initialized with capacity |
 | [U2U1202](docs/U2U1202.md) | Use LINQ Count methods efficiently |
 | [U2U1203](docs/U2U1203.md) | Use foreach efficiently |
-| [U2U1204](docs/U2U1204.md) | Do not implicitly convert an IQueryable<T> to an IEnumerable<T> |
-| [U2U1205](docs/U2U1205.md) | Do not query a LINQ EntitySet<T> |
+| [U2U1204](docs/U2U1204.md) | Do not implicitly convert an `IQueryable<T>` to an `IEnumerable<T>` |
+| [U2U1205](docs/U2U1205.md) | Do not query a LINQ `EntitySet<T>` |
 | [U2U1206](docs/U2U1206.md) | Do not use a LINQ where clause before filtering the query |
 | [U2U1207](docs/U2U1207.md) | Do not aggregate the result of a LINQ select operation |
 | [U2U1208](docs/U2U1208.md) | Do not call LINQ methods whose effect is undone by subsequent methods |
 | [U2U1209](docs/U2U1209.md) | Use dictionaries efficiently |
+| [U2U1210](docs/U2U1210.md) | Do not materialize an `IEnumerable<T>` unnecessarily |
 | [U2U3000](docs/U2U3000.md) | Provide enough arguments to composite formatting |
 | [U2U3001](docs/U2U3001.md) | Use the correct format syntax with composite formatting |
 
